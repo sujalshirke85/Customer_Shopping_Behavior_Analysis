@@ -55,9 +55,13 @@ Visualized:
 
 Visuals Included:
 🟠 Customer Subscription Status (Donut Chart)
+
 🟠 Sales & Revenue by Category (Bar Charts)
+
 🟠 Sales & Revenue by Age Group (Horizontal Bars)
+
 🟠 Filter Panel: Subscription, Gender, Category, Shipping Type
+
 The dashboard allows interactive filtering and provides an instant overview of how different demographics and behaviors influence purchase trends.
 
 📊 Results & Insights:
