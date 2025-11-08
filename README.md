@@ -23,14 +23,17 @@ Size: ~3,900 records
 1️⃣ Data Loading:-
  * Imported the dataset into Jupyter Notebook using Pandas.
  Verified column types and handled missing or inconsistent data.
+
 2️⃣ Data Cleaning:-
- * Removed duplicates and standardized text columns (e.g., gender, category).
+ * Removed duplicates and standardized text columns (e.g., gender, category)
+   
 3️⃣ Exploratory Data Analysis(EDA):-
  * Analyzed distribution of purchase amounts, customer demographics, and ratings.
 Visualized:
  * Top-selling categories
  * Average purchase by gender and age group
  * Correlation between subscription and spending habits
+   
 4️⃣ SQL Analysis (PostgreSQL):-
   Executed analytical SQL queries such as:
  * Total revenue by gender
@@ -39,6 +42,7 @@ Visualized:
  * Comparison of shipping types
  * Subscriber vs non-subscriber spending patterns
  * Revenue contribution by age group
+
 5️⃣ Dashboard Building (Power BI):-
  * Integrated the cleaned dataset into Power BI and built an interactive dashboard for executives and business users.
 
