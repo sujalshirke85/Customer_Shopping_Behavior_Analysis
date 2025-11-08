@@ -5,6 +5,7 @@
  The key objective was to identify spending patterns, customer preferences, and factors influencing purchase behavior such as gender, age, subscription status, and shipping type.
 
 📂 Dataset:
+
 File: customer_shopping_behavior.csv
 
 Source: kaggle
