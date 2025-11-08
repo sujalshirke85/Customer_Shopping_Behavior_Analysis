@@ -6,7 +6,9 @@
 
 📂 Dataset:
 File: customer_shopping_behavior.csv
+
 Source: kaggle
+
 Size: ~3,900 records
 
 🧰 Tools & Libraries:
