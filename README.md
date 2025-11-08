@@ -54,6 +54,7 @@ Visualized:
 * 3.75 Average Review Rating
 
 Visuals Included:
+
 🟠 Customer Subscription Status (Donut Chart)
 
 🟠 Sales & Revenue by Category (Bar Charts)
