@@ -13,10 +13,10 @@ Source: kaggle
 Size: ~3,900 records
 
 🧰 Tools & Libraries:
-* Python (Jupyter Notebook)	
+* Python (Jupyter Notebook)
+* Pandas	
 * PostgreSQL	
 * Power BI	
-* Pandas
 
 🧾 Project Steps:
 
