@@ -17,7 +17,6 @@ Size: ~3,900 records
 * PostgreSQL	
 * Power BI	
 * Pandas
-* Numpy
 * Matplot
 * Seaborn
 
