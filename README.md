@@ -17,8 +17,6 @@ Size: ~3,900 records
 * PostgreSQL	
 * Power BI	
 * Pandas
-* Matplot
-* Seaborn
 
 🧾 Project Steps:
 
